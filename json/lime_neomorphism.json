@@ -1,0 +1,23 @@
+{
+"version": "23.10.06",
+"gradient":"linear-gradient(var(--efy_color_angle), hsl(63 100% 38%), hsl(63 100% 30%), hsl(63 100% 23%))",
+"gradient_trans":"linear-gradient(var(--efy_color_angle), hsla(63 100% 38% / .3), hsla(63 100% 30% / .3), hsla(63 100% 23% / .3))",
+"color1":"63 100% 38%",
+"color2":"63 100% 30%",
+"color3":"63 100% 23%",
+"color4":"63 100% 23%",
+"color_nr":3,
+"mode":"light_light",
+"colorText":"63 100% 14%",
+"text":"63 100% 14%",
+"shadow_button":"-4rem -4rem 10rem 0rem hsla(63 100% 90% / 0.5), 4rem 4rem 10rem 0rem hsla(63 100% 20% / 0.5), inset -2rem -2rem 10rem 0rem hsla(63 100% 95% / 0), inset 3rem 3rem 10rem 0rem hsla(63 100% 23% / 0.3)",
+"shadow_trans":"-4rem -4rem 10rem 0rem hsla(63 100% 90% / 1), 5rem 5rem 10rem 0rem hsla(63 100% 15% / 0.45), 0rem 0rem 5rem 0rem hsla(0 0% 50% / 0), 0rem 0rem 5rem 0rem hsla(0 0% 50% / 0)",
+"shadow_button_trans":"-4rem -4rem 10rem 0rem hsla(63 100% 90% / 0.17), 4rem 4rem 10rem 0rem hsla(63 100% 20% / 0.17), inset -2rem -2rem 10rem 0rem hsla(63 100% 95% / 0.00), inset 3rem 3rem 10rem 0rem hsla(63 100% 23% / 0.10)",
+"colorBorder":"63 35% 70%",
+"bordercol":"63 35% 70%",
+"colorBackground":"63 100% 90%",
+"bgcol":"63 100% 90%",
+"bgcol_status":"on",
+"text_status":"on",
+"bordercol_status":"on"
+}
